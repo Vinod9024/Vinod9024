@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinod9024
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently working as a Java Developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
